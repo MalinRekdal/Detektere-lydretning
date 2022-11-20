@@ -1,0 +1,1 @@
+# Detektere-lydretning
